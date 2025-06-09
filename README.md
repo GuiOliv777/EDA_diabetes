@@ -2,7 +2,7 @@
 Análise exploratória de dados sobre diabetes: índices e variáveis.
 ----------------------------------------------------------------------
 
-** Análise Exploratória de Dados sobre Diabetes **
+**Análise Exploratória de Dados sobre Diabetes**
 Este repositório apresenta um projeto de Análise Exploratória de Dados (EDA) voltado para informações biomédicas relacionadas ao diabetes. O estudo foi desenvolvido a partir de um conjunto de dados clínicos de mil pacientes, contendo variáveis como idade, IMC, colesterol, triglicerídeos, ureia, creatinina e hemoglobina glicada (HbA1c), entre outras.
 
 O principal objetivo da análise é investigar os padrões presentes nos dados e entender como diferentes variáveis clínicas podem estar relacionadas ao estado glicêmico dos pacientes, classificados em três categorias: Não Diabéticos, Pré-Diabéticos e Diabéticos.
